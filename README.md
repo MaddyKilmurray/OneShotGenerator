@@ -54,7 +54,7 @@ FLUSH PRIVILEGES;
 
 #### Frontend Application
 
-[OneShotGenerator Frontend](https://github.com/MaddyKilmurray/OneShotGenerator_FrontEnd)
+[OneShotGenerator Frontend](https://github.com/MaddyKilmurray/OneShotGenerator-FrontEnd)
 
 - Clone the frontend repository: [https://github.com/MaddyKilmurray/OneShotGenerator-FrontEnd](https://github.com/MaddyKilmurray/OneShotGenerator-FrontEnd)
 - Install the dependencies: `npm install`
