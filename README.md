@@ -35,6 +35,8 @@ Technologies used in this project:
 
 #### Backend Application
 
+[OneShotGenerator Backend](https://github.com/MaddyKilmurray/OneShotGenerator_BackEnd)
+
 - Clone the backend repository: [https://github.com/MaddyKilmurray/OneShotGenerator_BackEnd](https://github.com/MaddyKilmurray/OneShotGenerator_BackEnd)
 - Setup the following database name and user, or setup your own database by changing the values in the `application.properties` file
 
@@ -51,6 +53,8 @@ FLUSH PRIVILEGES;
 - Run each service
 
 #### Frontend Application
+
+[OneShotGenerator Frontend](https://github.com/MaddyKilmurray/OneShotGenerator_FrontEnd)
 
 - Clone the frontend repository: [https://github.com/MaddyKilmurray/OneShotGenerator-FrontEnd](https://github.com/MaddyKilmurray/OneShotGenerator-FrontEnd)
 - Install the dependencies: `npm install`
